@@ -1,0 +1,2 @@
+{"size": "medium","text": "${P_RACE} are Medium creatures and receive no bonuses or penalties due to their size."},
+{"size": "small","text": "${P_RACE} are Small creatures and gain a +1 size bonus to their AC, a +1 size bonus on attack rolls, a –1 penalty to their Combat Maneuver Bonus and Combat Maneuver Defense, and a +4 size bonus on Stealth checks."}

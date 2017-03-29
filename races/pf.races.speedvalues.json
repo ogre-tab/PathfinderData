@@ -1,0 +1,4 @@
+{"speed": "slow speed","value": 20,"text": "${P_RACE} have a base speed of 20 feet."},
+{"speed": "normal speed","value": 30,"text": "${P_RACE} have a base speed of 30 feet."},
+{"speed": "slow and steady","value": 20,"text": "${P_RACE} have a base speed of 20 feet, but their speed is never modified by armor or encumbrance."},
+{"speed": "fast","value": 30,"text": "${P_RACE} are fast for their size, and have a base speed of 30 feet."}

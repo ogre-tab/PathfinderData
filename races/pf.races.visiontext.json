@@ -1,0 +1,4 @@
+{"vision": "darkvision","text": "${P_RACE} can see in the dark up to 60 feet."},
+{"vision": "low-light vision","text": "${P_RACE} can see twice as far as humans in conditions of dim light."},
+{"vision": "normal","text": "${P_RACE} have normal vision."},
+{"vision": "superior darkvision ","text": "${P_RACE} can see in the dark up to 120 feet."}

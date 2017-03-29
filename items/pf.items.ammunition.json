@@ -1,0 +1,12 @@
+{"item": "Arrows","amount": 20,"cost": 100,"weight": 3,"damage type": "P","text": ""},
+{"item": "Atlatl dart","amount": 1,"cost": 100,"weight": 2,"damage type": "P","text": ""},
+{"item": "Bamboo shaft arrows","amount": 10,"cost": 100,"weight": "0.5","damage type": "P","text": ""},
+{"item": "Blowgun darts","amount": 10,"cost": 50,"weight": 0,"damage type": "P","text": ""},
+{"item": "Blunt arrows","amount": 20,"cost": 200,"weight": 3,"damage type": "B","text": ""},
+{"item": "Crossbow bolts","amount": 10,"cost": 100,"weight": 1,"damage type": "P","text": ""},
+{"item": "Flight arrows","amount": 20,"cost": 200,"weight": 3,"damage type": "P","text": ""},
+{"item": "Kestros dart","amount": 10,"cost": 500,"weight": 5,"damage type": "P","text": ""},
+{"item": "Repeating crossbow bolts","amount": 5,"cost": 100,"weight": 1,"damage type": "P","text": ""},
+{"item": "Sling bullets","amount": 10,"cost": 10,"weight": 5,"damage type": "B","text": ""},
+{"item": "Smoke arrow","amount": 1,"cost": 1000,"weight": 0,"damage type": "","text": ""},
+{"item": "Whistling arrows","amount": 20,"cost": 200,"weight": 3,"damage type": "P","text": ""}
