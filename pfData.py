@@ -16,8 +16,8 @@ def isInt(s):
 def clean(s):
     # remove extra whitespace
     s = s.strip()
-    if '\\' in s: # this needs to be first if other characters are to be escaped
-        s = s.replace('\\','\\\\')
+    #if '\\' in s: # this needs to be first if other characters are to be escaped
+    #    s = s.replace('\\','\\\\')
     if '"' in s:
         s = s.replace('"','\\"')
     return s
